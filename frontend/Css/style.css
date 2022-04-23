@@ -1,0 +1,437 @@
+body, html {
+    height: 100%;
+}
+
+.entrada {
+    background-image: url("../imagem/entrada.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.sala {
+    background-image: url("../imagem/sala.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.cozinha {
+    background-image: url("../imagem/Cozinha.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.escadaSotao {
+    background-image: url("../imagem/EscadaSotao.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.escadaSotao2 {
+    background-image: url("../imagem/EscadaSotao2.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.corredor {
+    background-image: url("../imagem/Corredor.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.comodo {
+    background-image: url("../imagem/Comodo.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.quarto2 {
+    background-image: url("../imagem/Quarto2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.sotao {
+    background-image: url("../imagem/Sotao.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.quarto1 {
+    background-image: url("../imagem/Quarto1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.escadaPorao {
+    background-image: url("../imagem/EscadaPorao.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.porao {
+    background-image: url("../imagem/Porao.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.banheiro {
+    background-image: url("../imagem/Banheiro.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.quarto3 {
+    background-image: url("../imagem/Quarto3.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.botaoEntradaCasa {
+    position: fixed;
+    top: 13%;
+    left: 18%;
+    width: 60%;
+    height: 60%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoCozinha {
+    position: fixed;
+    top: 50%;
+    left: 70%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoVoltarCozinha {
+    position: fixed;
+    top: 50%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoSalaCozinha {
+    position: fixed;
+    top: 50%;
+    left: 90%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrCorredor {
+    position: fixed;
+    top: 45%;
+    left: 63%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoVoltarEscada {
+    position: fixed;
+    top: 50%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrQuarto2 {
+    position: fixed;
+    top: 40%;
+    left: 60%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrQuarto3 {
+    position: fixed;
+    top: 40%;
+    left: 32%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrComodo {
+    position: fixed;
+    top: 40%;
+    left: 75%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrEscadaPorao {
+    position: fixed;
+    top: 46%;
+    left: 44%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrBanheiro {
+    position: fixed;
+    top: 44%;
+    left: 19%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoVoltar {
+    background: transparent;
+    background-image: url("../imagem/seta.png");
+    background-position: center;
+    background-size: cover;
+    border: none;
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    top: 80%;
+    width: 10%;
+    height: 15%;
+}
+
+.botaoVoltarQuarto2 {
+    position: fixed;
+    top: 35%;
+    left: 52%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrEscadaSotao2 {
+    position: fixed;
+    top: 70%;
+    left: 25%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrEscadaSotao2-2 {
+    position: fixed;
+    top: 7%;
+    left: 85%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrEscadaSotao2-3 {
+    position: fixed;
+    top: 15%;
+    left: 37%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrQuarto1 {
+    position: fixed;
+    top: 24%;
+    left: 43%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoVoltarEscadaSotao2 {
+    position: fixed;
+    top: 40%;
+    left: 46%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrSotao {
+    position: fixed;
+    top: 40%;
+    left: 15%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoAudioQuarto2 {
+    position: fixed;
+    top: 55%;
+    left: 4%;
+    width: 20%;
+    height: 20%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoIrPorao {
+    position: fixed;
+    top: 41%;
+    left: 46%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoAudioPorao {
+    position: fixed;
+    top: 70%;
+    left: 72%;
+    width: 12%;
+    height: 20%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoVoltarEscadaPorao {
+    position: fixed;
+    top: 40%;
+    left: 45%;
+    width: 10%;
+    height: 15%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+.botaoCofre {
+    position: fixed;
+    top: 45%;
+    left: 43%;
+    width: 15%;
+    height: 25%;
+    background: transparent;
+    border: none;
+    display: block;
+    cursor: pointer;
+}
+
+
+
