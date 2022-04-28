@@ -5,7 +5,7 @@ function sotao() {
     if (senha != null)
     {
         if (senha === "0248") {
-            window.location.href = "escadaSotao.html";
+            window.location.href = "bWFz.html";
         }
         else {
             alert("chave incorreta");

@@ -5,7 +5,7 @@ function sotao() {
     if (senha != null)
     {
         if (senha === "1278") {
-            window.location.href = "quarto1.html";
+            window.location.href = "c2VydmU=.html";
         }
         else {
             alert("chave incorreta");

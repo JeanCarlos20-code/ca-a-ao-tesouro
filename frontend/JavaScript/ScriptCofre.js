@@ -5,7 +5,7 @@ function cofre() {
     if (senha != null)
     {
         if (senha === "1208") {
-            window.location.href = "quarto3.html";
+            window.location.href = "../imagem/OvoDeOuro.jpg";
         }
         else {
             alert("senha incorreta");
